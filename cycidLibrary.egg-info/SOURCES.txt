@@ -1,0 +1,11 @@
+setup.py
+cycidLibrary/__init__.py
+cycidLibrary/main.py
+cycidLibrary.egg-info/PKG-INFO
+cycidLibrary.egg-info/SOURCES.txt
+cycidLibrary.egg-info/dependency_links.txt
+cycidLibrary.egg-info/top_level.txt
+cycidLibrary/modules/Library.py
+cycidLibrary/modules/__init__.py
+cycidLibrary/modules/book.py
+cycidLibrary/modules/reader.py
